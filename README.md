@@ -24,5 +24,7 @@ perl call_domains_v4_hardCutoff.pl <Wig file from step 2> <Input or IgG wig file
 Other contents:
 
 disjoin.R - Simple R script to perform disjoin function on an input bed file
+  
 bed_score_l2.pl - Simple perl script to calculate log 2 enrichment of intervals in an input bed file. Other inputs: CUT&Tag wig file, IgG CUT&Tag wig file
+  
 reduce.R - Simple R script to perform "reduce" function on an input bed file
